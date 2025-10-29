@@ -1,4 +1,4 @@
-Repository ini dibuat untuk memenuhi Tugas UTS mata kuliah Machine Learning
+Repository ini dibuat untuk memenuhi Tugas UTS mata kuliah Machine Learning,
 Dosen: AGUNG PERDANANTO S.Kom, M.Kom
 
 Mahasiswa membuat model klasifikasi untuk memprediksi kelas dari suatu dataset (misal: deteksi penyakit, klasifikasi bunga, prediksi kelulusan, dsb).
